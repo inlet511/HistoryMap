@@ -1,0 +1,47 @@
+[
+  {
+    "year": -632,
+    "year_label": "前632年",
+    "name": "城濮之战",
+    "attacker_faction_id": "jin_spring",
+    "defender_faction_id": "chu_spring",
+    "result": "attacker_win",
+    "description": "晋文公率晋军联合齐、宋、秦之师，于城濮击败楚将子玉所率楚军"
+  },
+  {
+    "year": -260,
+    "year_label": "前260年",
+    "name": "长平之战",
+    "attacker_faction_id": "qin_warring",
+    "defender_faction_id": "zhao_warring",
+    "result": "attacker_win",
+    "description": "秦将白起围困赵括于长平，坑杀降卒四十万，战国格局由是定"
+  },
+  {
+    "year": 208,
+    "year_label": "公元208年",
+    "name": "赤壁之战",
+    "attacker_faction_id": "wei",
+    "defender_faction_id": "wu",
+    "result": "defender_win",
+    "description": "孙权刘备联军于赤壁火攻曹操水军，奠定三国鼎立"
+  },
+  {
+    "year": 222,
+    "year_label": "公元222年",
+    "name": "夷陵之战",
+    "attacker_faction_id": "shu",
+    "defender_faction_id": "wu",
+    "result": "defender_win",
+    "description": "陆逊以火攻大破蜀汉连营七百里，刘备败退白帝城"
+  },
+  {
+    "year": 383,
+    "year_label": "公元383年",
+    "name": "淝水之战",
+    "attacker_label": "前秦苻坚",
+    "defender_label": "东晋谢安",
+    "result": "defender_win",
+    "description": "东晋以八万北府兵击溃前秦号称百万之军，苻坚北逃，前秦瓦解"
+  }
+]

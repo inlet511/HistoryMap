@@ -1,0 +1,21 @@
+[
+  { "id": "qi_spring", "dynasty_id": "spring_autumn", "name": "齐", "name_en": "Qi", "start_year": -770, "end_year": -386, "color": "#f39c12", "type": "state", "capital": "临淄", "capital_lat": 36.8, "capital_lng": 118.3, "description": "姜齐/田齐，东方临海大国" },
+  { "id": "jin_spring", "dynasty_id": "spring_autumn", "name": "晋", "name_en": "Jin", "start_year": -770, "end_year": -453, "color": "#3498db", "type": "state", "capital": "绛", "capital_lat": 35.6, "capital_lng": 111.6, "description": "中原霸主，后分为韩赵魏" },
+  { "id": "chu_spring", "dynasty_id": "spring_autumn", "name": "楚", "name_en": "Chu", "start_year": -770, "end_year": -476, "color": "#e74c3c", "type": "state", "capital": "郢", "capital_lat": 30.4, "capital_lng": 112.2, "description": "南方大国，自称蛮夷" },
+  { "id": "qin_spring", "dynasty_id": "spring_autumn", "name": "秦", "name_en": "Qin", "start_year": -770, "end_year": -476, "color": "#2c3e50", "type": "state", "capital": "雍", "capital_lat": 34.5, "capital_lng": 107.4 },
+  { "id": "song_spring", "dynasty_id": "spring_autumn", "name": "宋", "name_en": "Song", "start_year": -770, "end_year": -476, "color": "#95a5a6", "type": "state", "capital": "商丘", "capital_lat": 34.4, "capital_lng": 115.6 },
+  { "id": "wu_spring", "dynasty_id": "spring_autumn", "name": "吴", "name_en": "Wu", "start_year": -585, "end_year": -473, "color": "#1abc9c", "type": "state", "capital": "吴", "capital_lat": 31.3, "capital_lng": 120.6 },
+  { "id": "yue_spring", "dynasty_id": "spring_autumn", "name": "越", "name_en": "Yue", "start_year": -514, "end_year": -333, "color": "#16a085", "type": "state", "capital": "会稽", "capital_lat": 30.0, "capital_lng": 120.6 },
+
+  { "id": "qi_warring", "dynasty_id": "warring_states", "name": "齐", "name_en": "Qi", "start_year": -475, "end_year": -221, "color": "#f39c12", "type": "state", "capital": "临淄", "capital_lat": 36.8, "capital_lng": 118.3 },
+  { "id": "chu_warring", "dynasty_id": "warring_states", "name": "楚", "name_en": "Chu", "start_year": -475, "end_year": -223, "color": "#e74c3c", "type": "state", "capital": "郢", "capital_lat": 30.4, "capital_lng": 112.2 },
+  { "id": "yan_warring", "dynasty_id": "warring_states", "name": "燕", "name_en": "Yan", "start_year": -475, "end_year": -222, "color": "#9b59b6", "type": "state", "capital": "蓟", "capital_lat": 39.9, "capital_lng": 116.4 },
+  { "id": "han_warring", "dynasty_id": "warring_states", "name": "韩", "name_en": "Han", "start_year": -453, "end_year": -230, "color": "#3498db", "type": "state", "capital": "新郑", "capital_lat": 34.4, "capital_lng": 113.7 },
+  { "id": "zhao_warring", "dynasty_id": "warring_states", "name": "赵", "name_en": "Zhao", "start_year": -453, "end_year": -222, "color": "#e67e22", "type": "state", "capital": "邯郸", "capital_lat": 36.6, "capital_lng": 114.5 },
+  { "id": "wei_warring", "dynasty_id": "warring_states", "name": "魏", "name_en": "Wei", "start_year": -453, "end_year": -225, "color": "#1abc9c", "type": "state", "capital": "大梁", "capital_lat": 34.8, "capital_lng": 114.3 },
+  { "id": "qin_warring", "dynasty_id": "warring_states", "name": "秦", "name_en": "Qin", "start_year": -475, "end_year": -221, "color": "#2c3e50", "type": "state", "capital": "咸阳", "capital_lat": 34.3, "capital_lng": 108.7, "description": "最终统一六国" },
+
+  { "id": "wei", "dynasty_id": "three_kingdoms", "name": "魏", "name_en": "Cao Wei", "start_year": 220, "end_year": 265, "color": "#2980b9", "type": "kingdom", "capital": "洛阳", "capital_lat": 34.6, "capital_lng": 112.4, "description": "曹魏，三国中实力最强，占据中原" },
+  { "id": "shu", "dynasty_id": "three_kingdoms", "name": "蜀", "name_en": "Shu Han", "start_year": 221, "end_year": 263, "color": "#27ae60", "type": "kingdom", "capital": "成都", "capital_lat": 30.7, "capital_lng": 104.1, "description": "蜀汉，刘备所建，偏安西南" },
+  { "id": "wu", "dynasty_id": "three_kingdoms", "name": "吴", "name_en": "Eastern Wu", "start_year": 222, "end_year": 280, "color": "#16a085", "type": "kingdom", "capital": "建业", "capital_lat": 32.0, "capital_lng": 118.8, "description": "东吴，孙权所建，据有江东" }
+]

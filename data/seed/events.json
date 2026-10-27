@@ -1,0 +1,121 @@
+[
+  {
+    "year": -632,
+    "year_label": "前632年",
+    "title": "城濮之战",
+    "type": "battle",
+    "description": "晋楚争霸的关键战役，晋文公重耳退避三舍后击败楚军，奠定晋国霸业",
+    "location_label": "城濮",
+    "lat": 35.4,
+    "lng": 115.1,
+    "dynasty_id": "spring_autumn",
+    "faction_ids": ["jin_spring", "chu_spring"]
+  },
+  {
+    "year": -597,
+    "year_label": "前597年",
+    "title": "邲之战",
+    "type": "battle",
+    "description": "楚庄王率军击败晋军，楚国称霸中原，楚庄王跻身春秋五霸",
+    "location_label": "邲",
+    "lat": 34.8,
+    "lng": 113.6,
+    "dynasty_id": "spring_autumn",
+    "faction_ids": ["chu_spring", "jin_spring"]
+  },
+  {
+    "year": -506,
+    "year_label": "前506年",
+    "title": "柏举之战",
+    "type": "battle",
+    "description": "吴王阖闾以孙武为将伐楚，五战入郢都，楚几乎亡国",
+    "location_label": "柏举",
+    "lat": 31.3,
+    "lng": 112.5,
+    "dynasty_id": "spring_autumn",
+    "faction_ids": ["wu_spring", "chu_spring"]
+  },
+  {
+    "year": -473,
+    "year_label": "前473年",
+    "title": "越灭吴",
+    "type": "fall",
+    "description": "越王勾践卧薪尝胆二十年终灭吴国，成为春秋最后一位霸主",
+    "location_label": "吴",
+    "lat": 31.3,
+    "lng": 120.6,
+    "dynasty_id": "spring_autumn",
+    "faction_ids": ["yue_spring", "wu_spring"]
+  },
+  {
+    "year": -453,
+    "year_label": "前453年",
+    "title": "三家分晋",
+    "type": "event",
+    "description": "韩、赵、魏三家灭智氏分晋，史家以此标志春秋结束、战国开始",
+    "location_label": "晋",
+    "lat": 35.6,
+    "lng": 111.6,
+    "dynasty_id": "warring_states",
+    "faction_ids": ["han_warring", "zhao_warring", "wei_warring"]
+  },
+  {
+    "year": -356,
+    "year_label": "前356年",
+    "title": "商鞅变法",
+    "type": "reform",
+    "description": "秦孝公任用商鞅两次变法，奖励耕战、建立县制，秦国自此走向富强",
+    "location_label": "咸阳",
+    "lat": 34.3,
+    "lng": 108.7,
+    "dynasty_id": "warring_states",
+    "faction_ids": ["qin_warring"]
+  },
+  {
+    "year": -260,
+    "year_label": "前260年",
+    "title": "长平之战",
+    "type": "battle",
+    "description": "秦将白起坑杀赵卒四十万，战国格局决定性战役，赵国从此一蹶不振",
+    "location_label": "长平",
+    "lat": 35.6,
+    "lng": 112.8,
+    "dynasty_id": "warring_states",
+    "faction_ids": ["qin_warring", "zhao_warring"]
+  },
+  {
+    "year": -221,
+    "year_label": "前221年",
+    "title": "秦统一六国",
+    "type": "founding",
+    "description": "秦始皇嬴政灭六国完成统一，建立中国第一个中央集权王朝，称皇帝",
+    "location_label": "咸阳",
+    "lat": 34.3,
+    "lng": 108.7,
+    "dynasty_id": "qin",
+    "faction_ids": ["qin_warring"]
+  },
+  {
+    "year": 208,
+    "year_label": "公元208年",
+    "title": "赤壁之战",
+    "type": "battle",
+    "description": "孙刘联军火攻曹军于赤壁，奠定三国鼎立格局",
+    "location_label": "赤壁",
+    "lat": 29.7,
+    "lng": 113.6,
+    "dynasty_id": "eastern_han",
+    "faction_ids": ["wei", "shu", "wu"]
+  },
+  {
+    "year": 383,
+    "year_label": "公元383年",
+    "title": "淝水之战",
+    "type": "battle",
+    "description": "东晋谢玄以八万兵力击败前秦苻坚号称百万之师，南北对峙局面得以延续",
+    "location_label": "淝水",
+    "lat": 32.6,
+    "lng": 117.0,
+    "dynasty_id": "eastern_jin"
+  }
+]

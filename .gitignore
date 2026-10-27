@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment (never commit real secrets)
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+dist/
+build/
+*.tsbuildinfo
+client/dist/
+server/dist/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Test coverage
+coverage/
+
+# Raw & processed historical data (regenerate via scripts, not committed)
+data/raw/
+data/processed/
+
+# Keep directory structure (track empty dirs)
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Third-party historical data source (jiangshan-map clone)
+data/raw/jiangshan-map/
+
+# WorkBuddy IDE workspace data (project memory/logs, not for public repo)
+.workbuddy/
